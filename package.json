@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/VictorDiasO/ibm-watson-with-NodeJS/issues"
   },
-  "homepage": "https://github.com/VictorDiasO/ibm-watson-with-NodeJS#readme"
+  "homepage": "https://github.com/VictorDiasO/ibm-watson-with-NodeJS#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
